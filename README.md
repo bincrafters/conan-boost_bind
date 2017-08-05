@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Bind](https://github.com/Boostorg/Bind) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Bind%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Bind%3Abincrafters).
 
 ## For Users: Use this package
 
