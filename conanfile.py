@@ -7,7 +7,7 @@ from conans import ConanFile, tools
 class BoostBindConan(ConanFile):
     name = "boost_bind"
     version = "1.66.0"
-    url = "https://github.com/bincrafters/conan-boost-bind"
+    url = "https://github.com/bincrafters/conan-boost_bind"
 
     lib_short_names = ["bind"]
     is_header_only = True
