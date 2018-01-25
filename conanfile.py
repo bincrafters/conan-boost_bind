@@ -8,7 +8,8 @@ class BoostBindConan(ConanFile):
     name = "boost_bind"
     version = "1.66.0"
     url = "https://github.com/bincrafters/conan-boost_bind"
-
+    author = "Bincrafters <bincrafters@gmail.com>"
+    exports = ["LICENSE.md"]
     lib_short_names = ["bind"]
     is_header_only = True
 
