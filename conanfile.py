@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.68.0@bincrafters/stable")
 
 class BoostBindConan(base.BoostBaseConan):
     name = "boost_bind"
+    version = "1.68.0"
     url = "https://github.com/bincrafters/conan-boost_bind"
     lib_short_names = ["bind"]
     header_only_libs = ["bind"]
